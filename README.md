@@ -27,9 +27,8 @@ Follow these step-by-step instructions to get the application running on your lo
 1. Clone the Repository
 First, clone this repository from GitHub to your local machine using the following command:
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+git clone https://github.com/root-atifmehmood/Implementing-Security-Measures.git
 
-(Replace your-username/your-repository-name with the actual path to your repository)
 
 2. Navigate to the Project Directory
 Change your current directory to the newly cloned project folder:
